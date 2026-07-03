@@ -1,0 +1,11 @@
+indictrans2_clean_best_model/
+.venv/
+.ipynb_checkpoints/
+train_sa_10000.csv
+train_en_10000.csv
+dev_sa_1000.csv
+dev_en_1000.csv
+test_sa_1000.csv
+test_en_1000.csv
+Assignment_NLU.pdf
+CMDCommands.txt
